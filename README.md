@@ -34,7 +34,7 @@ pip install tensorflow # For TensorFlow implementation
 - **Key Concepts**: Data cleaning, tokenization, custom training functions, TensorFlow and PyTorch implementations.
 
 ## Contributions
-Contributions, bug reports, and feature requests are welcome! Please feel free to check out [issue tracker](#) and make pull requests.
+Contributions, bug reports, and feature requests are welcome! Please feel free to check out issues and make pull requests.
 
 
 
